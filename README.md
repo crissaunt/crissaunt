@@ -10,7 +10,7 @@
 
 | **Currently**                      | **Interests**                          | **Working With**                  |
 |------------------------------------|----------------------------------------|-----------------------------------|
-| 🔭 Enhancing full-stack skills      | 🤔 Distributed systems & architecture  | 💻 JavaScript/TypeScript ecosystem|
+| 🔭 Enhancing full-stack skills      | 🤔 Distributed systems & architecture  | 💻 JavaScript ecosystem|
 | 🌱 Exploring Go & cloud native tech | 💬 Developer experience & tooling      | ⚙️ Vue 3 & modern frontend       |
 | 👯 Open to meaningful collaboration | ⚡ Performance & scalability challenges | 🧠 Python for data & automation   |
 
