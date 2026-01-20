@@ -20,10 +20,10 @@ I'm passionate about building, learning, and sharing through code.
 ## 🛠️ Tech Stack
 
 **Languages**
-- 💻 JavaScript | Python | (add more)
+- 💻 JavaScript | Python | HTML | CSS 
 
 **Frameworks & Tools**
-- ⚙️ React | Node.js | Git | Docker
+- ⚙️ Vue.js | Django | Git | 
 - 🧰 VS Code | GitHub | Linux
 
 ---
